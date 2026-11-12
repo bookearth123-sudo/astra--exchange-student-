@@ -1,4 +1,4 @@
-import SignInButtonGoogle from '@/app/components/SignInButtonGoogle'
+import SignInButtonGoogle from '@/components/SignInButtonGoogle'
 
 function LoginPage() {
     return(
